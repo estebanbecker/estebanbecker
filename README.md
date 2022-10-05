@@ -1,4 +1,4 @@
-### Welcome on my github profil 👋
+### Welcome on my github profile 👋
 
 [![Esteban'ss GitHub stats](https://github-readme-stats.vercel.app/api?username=estebanbecker&theme=dark&count_private=true)](https://github.com/estebanbecker)
 
